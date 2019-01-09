@@ -23,8 +23,8 @@ permalink: /profs/
 								<h3>Mohammed Hashim</h3>
 								<p>Head , Department of EEE ,CAHCET ,Melvisharam</p>
 								<div class="speaker_social">
-									<a href="http://bhavaniravi.com/" target="_blank"><img src="/images/icons/web.png"></a>
-									<a href="https://github.com/bhavaniravi" target="_blank"><img src="/images/icons/github.png"></a>
+									<a href="" target="_blank"><img src="/images/icons/web.png"></a>
+									<a href="https://github.com/cmhashim" target="_blank"><img src="/images/icons/github.png"></a>
 									<a href="https://medium.com/@bhavaniravi" target="_blank"><img src="/images/icons/medium.png"></a>
 									<a href="https://twitter.com/geeky_bhavani" target="_blank"><img src="/images/icons/twitter.png"></a>
 									<a href="https://www.linkedin.com/in/bhavanir/" target="_blank"><img src="/images/icons/linkedin.png"></a>

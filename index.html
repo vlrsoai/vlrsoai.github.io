@@ -1,0 +1,155 @@
+---
+layout: splash
+---
+
+<div class="category-wrapper">
+	<div class="category-header">
+		<h1>Meetup</h1>
+		<p class="category-description">We organize technical meetups around Chennai once a month where our <b>active AI enthusiasts</b> participate, collaborate, learn and share knowledge or experience related to Artificial Intelligence.</p>
+	</div>
+
+	<div class="blog-category-box padding-box">
+		<div class="category-box">
+			<ul>
+				{% for post in site.posts %}
+				{% if post.category contains 'meetup' %}
+				<li>
+					<a class="post-link" href="{{ site.baseurl }}{{ post.url }}">
+						<div class='inner_box'>
+							<div class="post-box">
+								<div class="f-col-1"><div class="circle-meetup"></div></div>
+								<div class="f-col-2">
+									<h3>{{ post.title }}</h3>
+									<h5>{{ post.venue }}</h5>
+									<p>{{ post.description }}</p>
+									<p class='front-date'>{{ post.date | date_to_long_string }}</p>
+								</div>
+							</div>
+						</div>
+					</a>
+				</li>
+				{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div class="category-wrapper">
+	<div class="category-header">
+		<h1>Webinars</h1>
+		<p class="category-description">Not only physical meetups, we also conduct live webinars where our <b>active AI enthusiasts</b> attend, share and collaborate knowledge or experience related to Artificial Intelligence.</p>
+	</div>
+
+	<div class="blog-category-box padding-box">
+		<div class="category-box">
+			<ul>
+				{% for post in site.posts %}
+				{% if post.category contains 'webinar' %}
+				<li>
+					<a class="post-link" href="{{ site.baseurl }}{{ post.url }}">
+						<div class='inner_box'>
+							<div class="post-box">
+								<div class="f-col-1"><div class="circle-webinar"></div></div>
+								<div class="f-col-2">
+									<h3>{{ post.title }}</h3>
+									<p>{{ post.description }}</p>
+									<p class='front-date'>{{ post.date | date_to_long_string }}</p>
+								</div>
+							</div>
+						</div>
+					</a>
+				</li>
+				{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div class="category-wrapper">
+	<div class="category-header">
+		<h1>Blog</h1>
+		<p class="category-description">We believe knowledge must be free. Hence, we write blog posts related to Artificial Intelligence such as Deep Learning, Machine Learning, Computer Vision, Natural Language Processing, Robotics and much more!</p>
+	</div>
+
+	<div class="blog-category-box padding-box">
+		<div class="category-box">
+			<ul>
+				{% for post in site.posts %}
+				{% if post.category contains 'blog' %}
+				<li>
+					<a class="post-link" href="{{ site.baseurl }}{{ post.url }}">
+						<div class='inner_box'>
+							<div class='post-box'>
+								<div class="f-col-1"><div class="circle-blog" style="background-image: url('{{ post.icon }}') !important;"></div></div>
+								<div class="f-col-2">
+									<h3>{{ post.title }}</h3>
+									<p>{{ post.description }}</p>
+									<p class='front-date'>{{ post.date | date_to_long_string }}</p>
+								</div>
+							</div>
+						</div>
+					</a>
+				</li>
+				{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div class="category-wrapper">
+	<div class="category-header">
+		<h1>Deans</h1>
+		<p class="category-description">We are the Deans of Chennai School of AI chosen by our awesome Director, <a href="https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A" target="_blank">Siraj Raval</a>, and our motto is to make AI accessible to anyone on this planet for free!</p>
+	</div>
+
+	<div class="blog-category-box">
+		<div class="category-box">
+			<ul>
+				<li>
+					<div class='speakers_box'>
+						<div class="speakers_circle" style="background-image: url('https://drive.google.com/uc?id=18lBah4TkPijnN83_uuaxt0ZoCtT_-n4r')"></div>
+						<div class="post-box">
+							<h3>Kumar Sachidanandam</h3>
+							<p>Co-founder and Managing Partner of Ydealogy Ventures</p>
+							<div class="speaker_social">
+								<a href="https://ydealogy.com/" target="_blank"><img src="/images/icons/web.png"></a>
+								<a href="https://twitter.com/KumarSachi" target="_blank"><img src="/images/icons/twitter.png"></a>
+								<a href="https://www.linkedin.com/in/kumarsachi/" target="_blank"><img src="/images/icons/linkedin.png"></a>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class='speakers_box'>
+						<div class="speakers_circle" style="background-image: url('https://drive.google.com/uc?id=1sxW5iM1E7pUvVPWncHxytUAUlYptAEeX')"></div>
+						<div class="post-box">
+							<h3>Gogul Ilango</h3>
+							<p>Physical Design Engineer at Qualcomm</p>
+							<div class="speaker_social">
+								<a href="https://gogul09.github.io/" target="_blank"><img src="/images/icons/web.png"></a>
+								<a href="https://github.com/Gogul09" target="_blank"><img src="/images/icons/github.png"></a>
+								<a href="https://twitter.com/gogul_ilango" target="_blank"><img src="/images/icons/twitter.png"></a>
+								<a href="https://www.linkedin.com/in/gogulilango/" target="_blank"><img src="/images/icons/linkedin.png"></a>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class='speakers_box'>
+						<div class="speakers_circle" style="background-image: url('https://drive.google.com/uc?id=1ujeohiB8k2rf4_8_g7U3gbu_m_mC0fhu')"></div>
+						<div class="post-box">
+							<h3>Sundaresan M S</h3>
+							<p>Data Scientist at Altimetrik</p>
+							<div class="speaker_social">
+								<a href="https://www.linkedin.com/in/sundaresan-m-s-3ab05bbb/" target="_blank"><img src="/images/icons/linkedin.png"></a>
+							</div>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>

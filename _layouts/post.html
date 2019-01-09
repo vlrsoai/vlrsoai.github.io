@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<article class="post">
+	<div class="post-header">
+		<div id="particles-js"></div>
+		<h1>{{ page.title }}</h1>
+
+		{% if page.venue %}
+			<p class="cover-author">{{ page.venue }}</p>
+		{% else %}
+			<div class="cover-box"><img class="circle-author" src="{{ page.authorpic }}" /><p class="cover-author">by {{ page.author }}</p></div>
+		{% endif %}
+		
+		<p class="cover-date">{{ page.date | date: "%B %e, %Y" }}</p>
+	</div>
+
+	<div class="entry">
+		{{ content }}
+		
+		<button class="disqus-button" onclick="showComments(this.id);">Comments</button>
+		<div class="disqus-box" id="disqus-box">
+			{% include disqus.html %}
+		</div>
+	</div>
+</article>
+
+<div id="media-modal" class="media-modal">
+  <span class="media-close" onclick="closeMediaModal()">&times;</span>
+  <img class="media-modal-content" id="media-modal-content">
+  <div id="media-modal-caption"></div>
+</div>

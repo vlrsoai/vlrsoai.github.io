@@ -27,7 +27,7 @@ permalink: /profs/
 									<a href="https://github.com/cmhashim" target="_blank"><img src="/images/icons/github.png"></a>
 									<a href="https://medium.com/@bhavaniravi" target="_blank"><img src="/images/icons/medium.png"></a>
 									<a href="https://twitter.com/geeky_bhavani" target="_blank"><img src="/images/icons/twitter.png"></a>
-									<a href="https://www.linkedin.com/in/bhavanir/" target="_blank"><img src="/images/icons/linkedin.png"></a>
+									<a href="https://www.linkedin.com/in/cmhashim/" target="_blank"><img src="/images/icons/linkedin.png"></a>
 								</div>
 							</div>
 						</div>

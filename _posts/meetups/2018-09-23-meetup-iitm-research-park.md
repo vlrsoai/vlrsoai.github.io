@@ -45,6 +45,6 @@ category: meetup
 ### Media
 
 	<div class="media-item">
-		<img src="https://drive.google.com/drive/u/0/folders/1nM6PN5lNikeINWzTQqOQu4t1-NT5UgpV/view"/>
+		<img src="https://drive.google.com/open?id=1mBwC7ARjyzCiqkyhhcq76WQ_nl17eimg"/>
 		<p>Poster</p>
 	</div>

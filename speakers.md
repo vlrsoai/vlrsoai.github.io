@@ -24,9 +24,8 @@ permalink: /profs/
 								<p>Head , Department of EEE ,CAHCET ,Melvisharam</p>
 								<div class="speaker_social">
 
-									<a href="https://github.com/cmhashim" target="_blank"><img src="/images/icons/github.png"></a>
-		
-									<a href="https://www.linkedin.com/in/cmhashim/" target="_blank"><img src="/images/icons/linkedin.png"></a>
+<a href="https://github.com/cmhashim" target="_blank"><img src="/images/icons/github.png"></a>
+		<a href="https://www.linkedin.com/in/cmhashim/" target="_blank"><img src="/images/icons/linkedin.png"></a>
 								</div>
 							</div>
 						</div>

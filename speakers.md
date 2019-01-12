@@ -18,12 +18,12 @@ permalink: /profs/
 				<ul>
 					<li>
 						<div class='speakers_box'>
-							<div class="speakers_circle" style="background-image: url('https://drive.google.com/file/d/1-_hr6WbYunf7_iEQN57xgRA2Pz30pv_h')"></div>
+							<div class="speakers_circle" style="background-image: url('https://drive.google.com/file/uc?id=1-_hr6WbYunf7_iEQN57xgRA2Pz30pv_h')"></div>
 							<div class="post-box">
 								<h3>Mohammed Hashim</h3>
 								<p>Head , Department of EEE ,CAHCET ,Melvisharam</p>
 								<div class="speaker_social">
-									<a href="" target="_blank"><img src="/images/icons/web.png"></a>
+
 									<a href="https://github.com/cmhashim" target="_blank"><img src="/images/icons/github.png"></a>
 		
 									<a href="https://www.linkedin.com/in/cmhashim/" target="_blank"><img src="/images/icons/linkedin.png"></a>

@@ -18,7 +18,7 @@ permalink: /profs/
 				<ul>
 					<li>
 						<div class='speakers_box'>
-							<div class="speakers_circle" style="background-image:url('https://drive.google.com/file/uc?id=1-_hr6WbYunf7_iEQN57xgRA2Pz30pv_h')"></div>
+							<div class="speakers_circle" style="background-image:url('https://drive.google.com/uc?id=1-_hr6WbYunf7_iEQN57xgRA2Pz30pv_h')"></div>
 							<div class="post-box">
 								<h3>Mohammed Hashim</h3>
 								<p>Head , Department of EEE ,CAHCET ,Melvisharam</p>

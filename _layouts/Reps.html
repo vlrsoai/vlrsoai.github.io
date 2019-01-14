@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ site.name }} | {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} | {{ page.description }}</title>
 
     {% include meta.html %}
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-      <![endif]-->
-      
+    <![endif]-->
+    
     <link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
     <link href="https://fonts.googleapis.com/css?family=Quicksand|Nunito" rel="stylesheet">
     <meta name="theme-color" content="#2422DD" />
@@ -34,18 +34,15 @@
         <a href="{{ site.baseurl }}/profs">Profs</a>
         <a href="{{ site.baseurl }}/about">About</a>
         <a href="{{ site.baseurl }}/about">Reps</a>
+        
         <button class="btn-night-mode" id="btn-night-mode" title="Dark/Light mode" onclick="switchTheme(1)"></button>
       </nav>
-      <div class="header about-header">
-        <header class="masthead clearfix">
-            <div id="particles-js"></div>
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-        </header>
-      </div>
 
- 
-    <div class="wrapper-footer">
+    <div id="main" role="main" class="blog-content">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer footer-fixed">
       <div class="container">
         <footer class="footer">
           <p>© 2018 - Vellore school of ai</p>

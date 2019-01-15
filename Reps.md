@@ -18,9 +18,9 @@ permalink: /Reps/
 				<ul>
 					<li>
 						<div class='speakers_box'>
-							<div class="speakers_circle" style="background-image:url('https://drive.google.com/uc?id=1-_hr6WbYunf7_iEQN57xgRA2Pz30pv_h')"></div>
+							<div class="speakers_circle" style="background-image:url('')"></div>
 							<div class="post-box">
-								<h3>Mohammed Hashim</h3>
+								<h3>Mohammed Talha</h3>
 								<p>Head , Department of EEE ,CAHCET ,Melvisharam</p>
 								<div class="speaker_social">
 
@@ -29,6 +29,19 @@ permalink: /Reps/
 								</div>
 							</div>
 						</div>
+						<div class='speakers_box'>
+							<div class="speakers_circle" style="background-image:url('')"></div>
+							<div class="post-box">
+								<h3>Mohamed Nashid Mifzal</h3>
+								<p>Head , Department of EEE ,CAHCET ,Melvisharam</p>
+								<div class="speaker_social">
+
+<a href="https://github.com/cmhashim" target="_blank"><img src="/images/icons/github.png"></a>
+		<a href="https://www.linkedin.com/in/cmhashim/" target="_blank"><img src="/images/icons/linkedin.png"></a>
+								</div>
+							</div>
+						</div>
+						
 						
 					</li>
 					

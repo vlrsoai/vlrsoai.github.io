@@ -699,5 +699,7 @@ figcaption {
   cursor: pointer;
 }
 .simple-linear {
-  background: linear-gradient(blue, pink);
+	height: 100px;
+	width: 300px;
+  background: linear-gradient(to right,white,blue);
 }

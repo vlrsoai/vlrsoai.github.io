@@ -9,7 +9,7 @@ permalink: /Reps/
 	<div class="post-header">
 		<div id="particles-js"></div>
 		<h1>{{ page.title }}</h1>
-		<p class="page_description">Our intellectual representatives</p>
+		<p class="page_description">Our representatives</p>
 	
 	</div>
 	<div class="speakers_entry">

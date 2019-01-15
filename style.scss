@@ -701,5 +701,6 @@ figcaption {
 .simple-linear {
 	height: 200px;
 	width: 500px;
-  background: linear-gradient(to right,white,blue);
+	padding 50%;
+  background: linear-gradient(to right,white,sky,blue);
 }

@@ -10,7 +10,7 @@ permalink: /Reps/
 		<div id="particles-js"></div>
 		<h1>{{ page.title }}</h1>
 		<p class="page_description">Our intellectual representatives</p>
-		<a href="https://docs.google.com/forms/d/1icEPMTQahRf1Hywk6yJjUzve5R-SlgEsgpznt6WeFNI/viewform" target="_blank" class="btn_catcher">Become a Prof</a>
+	
 	</div>
 	<div class="speakers_entry">
 		<div class="blog-category-box">
@@ -29,6 +29,7 @@ permalink: /Reps/
 								</div>
 							</div>
 						</div>
+						
 					</li>
 					
 		

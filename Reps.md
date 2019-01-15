@@ -21,7 +21,7 @@ permalink: /Reps/
 							<div class="speakers_circle" style="background-image:url('')"></div>
 							<div class="post-box">
 								<h3>Mohammed Talha</h3>
-								<p>Head , Department of EEE ,CAHCET ,Melvisharam</p>
+								<p> CAHCET ,Melvisharam</p>
 								<div class="speaker_social">
 
 <a href="https://github.com/cmhashim" target="_blank"><img src="/images/icons/github.png"></a>
@@ -33,7 +33,7 @@ permalink: /Reps/
 							<div class="speakers_circle" style="background-image:url('')"></div>
 							<div class="post-box">
 								<h3>Mohamed Nashid Mifzal</h3>
-								<p>Head , Department of EEE ,CAHCET ,Melvisharam</p>
+								<p>CAHCET ,Melvisharam</p>
 								<div class="speaker_social">
 
 <a href="https://github.com/cmhashim" target="_blank"><img src="/images/icons/github.png"></a>

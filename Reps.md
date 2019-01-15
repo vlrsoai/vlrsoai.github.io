@@ -24,8 +24,8 @@ permalink: /Reps/
 								<p> CAHCET ,Melvisharam</p>
 								<div class="speaker_social">
 
-<a href="https://github.com/cmhashim" target="_blank"><img src="/images/icons/github.png"></a>
-		<a href="https://www.linkedin.com/in/cmhashim/" target="_blank"><img src="/images/icons/linkedin.png"></a>
+<a href="https://github.com/mohammedtalhas" target="_blank"><img src="/images/icons/github.png"></a>
+		<a href="https://www.linkedin.com/in//" target="_blank"><img src="/images/icons/linkedin.png"></a>
 								</div>
 							</div>
 						</div>
@@ -36,8 +36,8 @@ permalink: /Reps/
 								<p>CAHCET ,Melvisharam</p>
 								<div class="speaker_social">
 
-<a href="https://github.com/cmhashim" target="_blank"><img src="/images/icons/github.png"></a>
-		<a href="https://www.linkedin.com/in/cmhashim/" target="_blank"><img src="/images/icons/linkedin.png"></a>
+<a href="https://github.com/nmifzal" target="_blank"><img src="/images/icons/github.png"></a>
+		<a href="https://www.linkedin.com/in//" target="_blank"><img src="/images/icons/linkedin.png"></a>
 								</div>
 							</div>
 						</div>

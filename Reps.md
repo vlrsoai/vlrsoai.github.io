@@ -29,19 +29,7 @@ permalink: /Reps/
 								</div>
 							</div>
 						</div>
-						<div class='speakers_box'>
-							<div class="speakers_circle" style="background-image:url('')"></div>
-							<div class="post-box">
-								<h3>Mohamed Nashid Mifzal</h3>
-								<p>CAHCET ,Melvisharam</p>
-								<div class="speaker_social">
-
-<a href="https://github.com/nmifzal" target="_blank"><img src="/images/icons/github.png"></a>
-		<a href="https://www.linkedin.com/in//" target="_blank"><img src="/images/icons/linkedin.png"></a>
-								</div>
-							</div>
-						</div>
-						
+					
 						
 					</li>
 					

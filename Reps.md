@@ -57,7 +57,7 @@ permalink: /Reps/
 								<div class="speaker_social">
 
 <a href="https://github.com/" target="_blank"><img src="/images/icons/github.png"></a>
-		<a href="https://www.linkedin.com/in//" target="_blank"><img src="/images/icons/linkedin.png"></a>
+		<a href="https://www.linkedin.com/in/mohammed-kabir-b2016916b/" target="_blank"><img src="/images/icons/linkedin.png"></a>
 								</div>
 							</div>
 						</div>
@@ -72,7 +72,7 @@ permalink: /Reps/
 								<p> CAHCET ,Melvisharam</p>
 								<div class="speaker_social">
 
-<a href="https://github.com/" target="_blank"><img src="/images/icons/github.png"></a>
+<a href="https://github.com/MAJEEDKAM" target="_blank"><img src="/images/icons/github.png"></a>
 		<a href="https://www.linkedin.com/in//" target="_blank"><img src="/images/icons/linkedin.png"></a>
 								</div>
 							</div>
@@ -88,7 +88,7 @@ permalink: /Reps/
 								<p> CAHCET ,Melvisharam</p>
 								<div class="speaker_social">
 
-<a href="https://github.com/" target="_blank"><img src="/images/icons/github.png"></a>
+<a href="https://github.com/imranm12" target="_blank"><img src="/images/icons/github.png"></a>
 		<a href="https://www.linkedin.com/in//" target="_blank"><img src="/images/icons/linkedin.png"></a>
 								</div>
 							</div>
@@ -104,7 +104,7 @@ permalink: /Reps/
 								<p> CAHCET ,Melvisharam</p>
 								<div class="speaker_social">
 
-<a href="https://github.com/" target="_blank"><img src="/images/icons/github.png"></a>
+<a href="https://github.com/vishnurudhva01" target="_blank"><img src="/images/icons/github.png"></a>
 		<a href="https://www.linkedin.com/in//" target="_blank"><img src="/images/icons/linkedin.png"></a>
 								</div>
 							</div>
@@ -121,7 +121,7 @@ permalink: /Reps/
 								<div class="speaker_social">
 
 <a href="https://github.com/mohammedtalhas" target="_blank"><img src="/images/icons/github.png"></a>
-		<a href="https://www.linkedin.com/in//" target="_blank"><img src="/images/icons/linkedin.png"></a>
+		<a href="https://www.linkedin.com/in/mohammed-talha-9483a2171/" target="_blank"><img src="/images/icons/linkedin.png"></a>
 								</div>
 							</div>
 						</div>

@@ -1765,3 +1765,46 @@ figcaption {
   color: black;
   margin: 0;
 }
+.granimate {
+  background-color: #2ecc71;
+  animation: hue 11s linear 0s infinite reverse;
+}
+.granimate::before {
+  background: linear-gradient(105deg, rgba(255, 190, 0, 0), #ffbe00);
+  animation: hue 12s linear 1s infinite;
+}
+
+@keyframes hue {
+  to {
+    filter: hue-rotate(1turn);
+  }
+}
+
+.full {
+  
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 30%; 
+  color: white;
+  font-family: system-ui;
+  font-size: 48px;
+  border-radius: 4px;
+  margin: 0px auto;
+  margin-top: 20px;
+  padding: 20px 30px;
+  display: flex;
+  box-shadow: 0 1px 8px 0 rgba(0,0,0,.2), 0 3px 4px 0 rgba(0,0,0,.14), 0 3px 3px -2px rgba(0,0,0,.12);
+   flex-direction: row;
+    @include mobile {
+      border-radius: 0px;
+      margin-top: 0px;
+      padding: 20px;
+    }
+}
+
+.blog-category-box .inner_box h5 {
+  font-family: "Roboto";
+}
+
+   

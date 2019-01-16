@@ -759,7 +759,7 @@ figcaption {
 }
 
 .full {
-  display: flex;
+  
   align-items: center;
   justify-content: center;
   width: 100%;
@@ -770,6 +770,8 @@ figcaption {
   border-radius: 4px;
   margin: 0px auto;
   margin-top: 20px;
+  padding: 20px 30px;
+  display: flex;
   box-shadow: 0 1px 8px 0 rgba(0,0,0,.2), 0 3px 4px 0 rgba(0,0,0,.14), 0 3px 3px -2px rgba(0,0,0,.12);
    flex-direction: row;
     @include mobile {

@@ -698,9 +698,48 @@ figcaption {
   border: 1px solid #d6d6d6;
   cursor: pointer;
 }
-.simple-linear {
-	height: 400px;
-	width: 700px;
-	
-  background: linear-gradient(to right,white,pink,blue);
+
+.headline-wrapper {
+  width: 100%;
+}
+
+.headline-box {
+    width: 100%;
+    background-image: linear-gradient(62deg, #45febe, #394ee3);
+    border-radius: 4px;
+    margin: 0px auto;
+    margin-top: 20px;
+    box-shadow: 0 1px 8px 0 rgba(0,0,0,.2), 0 3px 4px 0 rgba(0,0,0,.14), 0 3px 3px -2px rgba(0,0,0,.12);
+    padding: 20px 30px;
+    display: flex;
+    flex-direction: row;
+    @include mobile {
+      border-radius: 0px;
+      margin-top: 0px;
+      padding: 20px;
+    }
+}
+
+.headline-desc p {
+  font-size: 18px;
+  font-weight: bold;
+  color: #383838 !important;
+}
+
+.headline-desc li {
+  color: #383838 !important;
+}
+
+.headline-desc a {
+  color: #383838 !important;
+}
+
+.headline-desc {
+  flex: 1;
+}
+
+.headline-img img {
+  height: 160px;
+  border-radius: 4px;
+  cursor: pointer;
 }

@@ -1765,6 +1765,21 @@ figcaption {
   color: black;
   margin: 0;
 }
+.headline-img img {
+  height: 160px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.google-player {
+  width:640px; 
+  height:480px; 
+  display:none; 
+  margin: 0px auto;
+  overflow: hidden;
+  @include mobile {
+    width: 100%;
+  }
+}
 .granimate {
   background-color: #2ecc71;
   animation: hue 11s linear 0s infinite reverse;

@@ -52,6 +52,7 @@ category: meetup
 		<img src="https://drive.google.com/uc?id=1-z-Wd3SkI3Z5ziVDOPCVxFb0Nob2qCvZ" onclick="showMediaModal(this.src);"/>
 		<p>Speaker 2</p>
 	</div>
+	<br>
 	<div class="media-item" >
 		<img src="https://drive.google.com/uc?id=11uBILFUjz1AFEs5ZXe6VTb_IDuc9gMAb" onclick="showMediaModal(this.src);"/>
 		<p>Group Pic</p>

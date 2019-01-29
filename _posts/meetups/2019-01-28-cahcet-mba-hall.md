@@ -45,15 +45,15 @@ category: meetup
 		<p>Poster</p>
 	</div>
 	<div class="media-item" >
-		<img src="https://drive.google.com/uc?id=1JY8i2Os6v9JhbUT0oLnr9-c-jS5H98m0" onclick="showMediaModal(this.src);"/>
+		<img src="https://drive.google.com/uc?id=10223T3nEdUQz_swhZ7D3Z6Sqza2UyNfB" onclick="showMediaModal(this.src);"/>
 		<p>Speaker 1</p>
 	</div>
 	<div class="media-item" >
-		<img src="https://drive.google.com/uc?id=1JY8i2Os6v9JhbUT0oLnr9-c-jS5H98m0" onclick="showMediaModal(this.src);"/>
+		<img src="https://drive.google.com/uc?id=1-z-Wd3SkI3Z5ziVDOPCVxFb0Nob2qCvZ" onclick="showMediaModal(this.src);"/>
 		<p>Speaker 2</p>
 	</div>
 	<div class="media-item" >
-		<img src="https://drive.google.com/uc?id=1JY8i2Os6v9JhbUT0oLnr9-c-jS5H98m0" onclick="showMediaModal(this.src);"/>
+		<img src="https://drive.google.com/uc?id=11uBILFUjz1AFEs5ZXe6VTb_IDuc9gMAb" onclick="showMediaModal(this.src);"/>
 		<p>Group Pic</p>
 	</div>
 	<div class="media-item" >

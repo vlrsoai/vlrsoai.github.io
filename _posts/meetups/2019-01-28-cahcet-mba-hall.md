@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1st-MEETUP
+title: MEETUP-1
 date: 28.01.2019   
 venue: C.ABDUL HAKEEM COLLEGE OF ENGINEERING AND TECHNOLOGY,Vellore.
 description: Shout loud! We are school of AI from Vellore. It was a terrific start for a community that has just started out. Expert speakers from different domains shared their experiences in AI.

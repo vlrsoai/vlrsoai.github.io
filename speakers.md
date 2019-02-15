@@ -44,7 +44,7 @@ permalink: /profs/
 						<div class='speakers_box'>
 							<div class="speakers_circle" style="background-image:url('')"></div>
 							<div class="post-box">
-								<h3>Mohamed Yousuff/h3>
+								<h3>Mohamed Yousuff</h3>
 								<p>Head , Department of CSE ,CAHCET ,Melvisharam</p>
 								<div class="speaker_social">
 

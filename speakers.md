@@ -41,7 +41,7 @@ permalink: /profs/
 								<div class="speaker_social">
 
 <a href="" target="_blank"><img src="/images/icons/github.png"></a>
-		<a href="" target="_blank"><img src="/images/icons/linkedin.png"></a>
+		<a href="https://www.linkedin.com/in/mohamed-yousuff-ar-career/" target="_blank"><img src="/images/icons/linkedin.png"></a>
 								</div>
 							</div>
 						</div>

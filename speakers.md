@@ -34,7 +34,7 @@ permalink: /profs/
 		
 					<li>
 						<div class='speakers_box'>
-							<div class="speakers_circle" style="background-image:url('')"></div>
+							<div class="speakers_circle" style="background-image:url('yousuff sir.jpeg')"></div>
 							<div class="post-box">
 								<h3>Mohamed Yousuff</h3>
 								<p>Assistant Professor ,CSE ,CAHCET ,Melvisharam</p>

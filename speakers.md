@@ -32,20 +32,12 @@ permalink: /profs/
 					</li>
 					
 		
-				</ul>
-			</div>
-		</div>
-	</div>
-	<div class="speakers_entry">
-		<div class="blog-category-box">
-			<div class="category-box">
-				<ul>
 					<li>
 						<div class='speakers_box'>
 							<div class="speakers_circle" style="background-image:url('')"></div>
 							<div class="post-box">
 								<h3>Mohamed Yousuff</h3>
-								<p>Head , Department of CSE ,CAHCET ,Melvisharam</p>
+								<p>Assistant Professor ,CSE ,CAHCET ,Melvisharam</p>
 								<div class="speaker_social">
 
 <a href="" target="_blank"><img src="/images/icons/github.png"></a>

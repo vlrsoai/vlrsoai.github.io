@@ -34,7 +34,7 @@ permalink: /profs/
 		
 					<li>
 						<div class='speakers_box'>
-							<div class="speakers_circle" style="background-image:url('https://drive.google.com/open?id=1uzKW4SFBx-KDRavYsBo704vg53QQJByL')"></div>
+							<div class="speakers_circle" style="background-image:url('https://drive.google.com/uc?id=1uzKW4SFBx-KDRavYsBo704vg53QQJByL')"></div>
 							<div class="post-box">
 								<h3>Mohamed Yousuff</h3>
 								<p>Assistant Professor ,CSE ,CAHCET ,Melvisharam</p>

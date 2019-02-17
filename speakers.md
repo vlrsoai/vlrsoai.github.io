@@ -51,7 +51,7 @@ permalink: /profs/
 							<div class="speakers_circle" style="background-image:url('https://drive.google.com/uc?id=12h6Ic-O8GAtnQaKRfGb4hVKLLcdaeef0')"></div>
 							<div class="post-box">
 								<h3>Shaikh Abdus Samad </h3>
-								<p>Research Associate at Vellore Institute of Technology,Vellore</p>
+								<p>Research Associate at Vellore Institute of Technology ,Vellore</p>
 								<div class="speaker_social">
 
 <a href="" target="_blank"><img src="/images/icons/github.png"></a>
